@@ -1,16 +1,46 @@
-# React + Vite
+# 📱 iPhone 17
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um projeto desenvolvido em **React** que apresenta uma interface moderna e interativa inspirada no novo **iPhone 17**.  
+O objetivo deste projeto é demonstrar o uso de componentes React, estilização com CSS e interação dinâmica com JavaScript para criar uma experiência visual fluida e elegante.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias utilizadas
 
-## React Compiler
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+</div>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Como executar o projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1️⃣ Clonar o repositório
+```bash
+git clone https://github.com/seuusuario/iphone17.git
+cd iphone17
+
+npm install
+
+npm start
+
+Após isso, o projeto estará rodando em:
+👉 http://localhost:3000
+
+📦 iphone17
+├── 📁 src
+│   ├── 📁 components
+│   ├── 📁 assets
+│   ├── App.js
+│   └── index.js
+├── package.json
+├── README.md
+└── ...
+
+👨‍💻 Autor
+
+Desenvolvido por Fabio Detofolli Silva
+🔗 LinkedIn
